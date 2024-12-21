@@ -6,16 +6,16 @@
   },
   "settings" : {
     "language" : "ru",
-    "spellingCorrection" : false,
+    "spellingCorrection" : true,
     "classificationAlgorithm" : "sts",
-    "timezone" : "UTC",
+    "timezone" : "UTC+03:00",
     "extendedSettings" : {
       "classificationAlgorithmVersion" : 1.0
     },
     "shared" : false,
     "validation" : {
-      "phraseValidationEnabled" : false,
-      "answerValidationEnabled" : false,
+      "phraseValidationEnabled" : true,
+      "answerValidationEnabled" : true,
       "phraseValidationThreshold" : 0.5,
       "answerValidationThreshold" : 0.8
     }
