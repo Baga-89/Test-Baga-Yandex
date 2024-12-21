@@ -9,9 +9,7 @@
     "spellingCorrection" : true,
     "classificationAlgorithm" : "sts",
     "timezone" : "UTC+03:00",
-    "extendedSettings" : {
-      "classificationAlgorithmVersion" : 1.0
-    },
+    "extendedSettings" : { },
     "shared" : false,
     "validation" : {
       "phraseValidationEnabled" : true,
